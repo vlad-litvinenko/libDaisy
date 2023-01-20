@@ -30,7 +30,8 @@
             },
             "compilerPath": "~/dev/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc",
             "cStandard": "c11",
-            "cppStandard": "gnu++14"
+            "cppStandard": "gnu++14",
+            "configurationProvider": "ms-vscode.makefile-tools"
         },
         {
             "name": "Win32",
